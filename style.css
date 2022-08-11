@@ -528,7 +528,9 @@ header .search-bar-container label:hover{
 .footer .credit span{
   color:var(--orange);
 }
-
+html, body{
+  overflow-x: hidden;
+}
 
 
 
